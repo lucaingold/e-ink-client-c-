@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION  3.18)
 project(e_ink_client_c)
 
 set(CMAKE_CXX_STANDARD 20)
