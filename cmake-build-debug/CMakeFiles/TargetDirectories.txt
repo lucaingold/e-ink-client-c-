@@ -1,0 +1,3 @@
+/Users/lucaingold/Documents/EInkPhotoFrame/e-ink-client-c/cmake-build-debug/CMakeFiles/e_ink_client_c.dir
+/Users/lucaingold/Documents/EInkPhotoFrame/e-ink-client-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucaingold/Documents/EInkPhotoFrame/e-ink-client-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
